@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6C77-6938
+
+ Directory of C:\Users\Admin\Desktop\folder2\New-Project
+
+21-11-2018  23:52    <DIR>          .
+21-11-2018  23:52    <DIR>          ..
+21-11-2018  23:50                38 Parth
+21-11-2018  23:52                 0 testing.txt
+               2 File(s)             38 bytes
+               2 Dir(s)  49,365,950,464 bytes free
